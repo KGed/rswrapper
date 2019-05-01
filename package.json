@@ -1,0 +1,24 @@
+{
+  "name": "rswrapper",
+  "version": "0.0.1",
+  "description": "Wrapper for the Runescape API",
+  "main": "rswrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KGed/rswrapper.git"
+  },
+  "keywords": [
+    "wrapper",
+    "runescape",
+    "api"
+  ],
+  "author": "Keegan Gerrard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KGed/rswrapper/issues"
+  },
+  "homepage": "https://github.com/KGed/rswrapper#readme"
+}
