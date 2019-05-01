@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/KGed/rswrapper/issues"
   },
-  "homepage": "https://github.com/KGed/rswrapper#readme"
+  "homepage": "https://github.com/KGed/rswrapper#readme",
+  "dependencies": {
+    "node-fetch": "^2.4.1"
+  }
 }
